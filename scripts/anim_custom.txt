@@ -1,0 +1,76 @@
+// fixes lag issue regarding DamagedPlayer
+// put things in AnimateHitmarker instead
+
+event DamagedPlayer
+{
+    StopEvent AnimateHitmarker 0.0
+    RunEvent AnimateHitmarker 0.0
+}
+
+event AnimateHitmarker
+{
+
+}
+
+//Health Bonus Pulse
+event HudHealthBonusPulse
+{
+	//Animate	PlayerStatusHealthValue						fgcolor		"0 161 0 255"		Linear 0.0 0.75
+	//Animate	PlayerStatusHealthValue						fgcolor		"137 211 137 255"	Linear 0.85 0.75
+	//Animate	PlayerStatusHealthValueNoHurtAnim			fgcolor		"0 161 0 255"		Linear 0.0 0.75
+    Animate PlayerStatusBG                              alpha   "0"             Linear 0.0 0.0
+    Animate PlayerStatusBGOverheal                              alpha   "140"             Linear 0.0 0.0
+    Animate SpecBuffHealthBG                            alpha   "140"           Linear 0.0 0.0
+    Animate SpecHealthBG                            alpha   "0"           Linear 0.0 0.0
+}
+
+event HudHealthBonusPulseStop
+{
+	Animate	PlayerStatusHealthValue					fgcolor		"255 255 255 255"	Linear 0.01 0.25
+	Animate	PlayerStatusHealthValueNoHurtAnim		fgcolor		"255 255 255 255"	Linear 0.01 0.25
+    Animate PlayerStatusBG                              alpha   "160"             Linear 0.0 0.0
+    Animate PlayerStatusBGOverheal                              alpha   "0"             Linear 0.0 0.0
+    Animate SpecBuffHealthBG                            alpha   "0"           Linear 0.0 0.0
+    Animate SpecHealthBG                            alpha   "200"           Linear 0.0 0.0
+}
+
+event HudHealthDyingPulse
+{
+    Animate PlayerStatusBG              alpha   "0"     Linear 0.0 0.0
+    Animate PlayerStatusBGUnderheal                            alpha   "140"             Linear 0.0 0.0
+    Animate SpecLowHealthBG             alpha   "255"   Linear 0.0 0.0
+    Animate SpecHealthBG                            alpha   "0"           Linear 0.0 0.0
+}
+
+event HudHealthDyingPulseStop
+{
+
+    Animate PlayerStatusBG              alpha   "160"     Linear 0.0 0.0
+    Animate PlayerStatusBGUnderheal                            alpha   "0"             Linear 0.0 0.0
+    Animate SpecLowHealthBG             alpha   "0"   Linear 0.0 0.0
+    Animate SpecHealthBG                            alpha   "200"           Linear 0.0 0.0
+}
+
+event HudLowAmmoPulse
+{
+	Animate AmmoPanelBGLow              alpha "160" Linear 0.0 0.0
+    Animate AmmoPanelBG                 alpha "0" Linear 0.0 0.0
+}
+
+event HudLowAmmoPulseStop
+{
+	Animate AmmoPanelBGLow              alpha "0" Linear 0.0 0.0
+    Animate AmmoPanelBG                 alpha "160" Linear 0.0 0.0
+}
+
+event DefaultAnimCasualCategory_Selected
+{
+	Animate Shade BgColor "0 0 0 0" Deaccel 0 0.0
+	Animate Title		FgColor wh_white Deaccel 0 0.0
+}
+
+event DefaultAnimCasualCategory_NotSelected
+{
+	Animate Shade BgColor "0 0 0 200" Deaccel 0 0.0
+	Animate Title		FgColor "70 70 70 255" Deaccel 0 0.0
+}
