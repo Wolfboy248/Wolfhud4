@@ -233,7 +233,7 @@
 			"tall"			"f65"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"border"		"InnerShadowBorder"
+			"border"		"NoBorder"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
 		}
@@ -250,7 +250,7 @@
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
 
-			"border"		"MainMenuBGBorder"
+			"border"		"NoBorder"
 
 			"ScrollBar"
 			{

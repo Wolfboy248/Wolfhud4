@@ -324,7 +324,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_white"
 		"fgcolor_override"	"wh_white"
-		"labelText"			"0.1.0"
+		"labelText"			"0.1.1"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}

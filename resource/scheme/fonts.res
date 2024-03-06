@@ -22,6 +22,66 @@ Scheme
 			}
 		}
 
+		"char_20"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+
+		"char_30"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"30"
+				"antialias"	"1"
+			}
+		}
+
+		"char_40"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"40"
+				"antialias"	"1"
+			}
+		}
+
+		"char_50"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"50"
+				"antialias"	"1"
+			}
+		}
+
+		"char_60"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"60"
+				"antialias"	"1"
+			}
+		}
+
+		"char_70"
+		{
+			"1"
+			{
+				"name"		"TF2 Character Icons"
+				"tall"		"70"
+				"antialias"	"1"
+			}
+		}
+
 		"BOLD_4"
 		{
 			"1"
@@ -624,6 +684,11 @@ Scheme
 		{
 			"font" "resource/fonts/TF2 Icons.ttf"
 			"name"	"TF2 Icons"
+		}
+		"13"
+		{
+			"font"	"resource/fonts/TF2 Character Icons.ttf"
+			"name"	"TF2 Character Icons"
 		}
 	}
 }

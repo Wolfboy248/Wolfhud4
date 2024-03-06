@@ -67,7 +67,7 @@
 			"ypos"			"rs1"
 			"zpos"			"100"
 			"wide"			"f0"
-			"tall"			"9"
+			"tall"			"12"
 			"proportionaltoparent"	"1"
 
 			"actionsignallevel"	"2"

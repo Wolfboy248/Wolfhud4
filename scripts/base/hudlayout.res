@@ -87,12 +87,8 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minbad"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minbad"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
+		"xpos"			"r447"	[$WIN32]
+		"ypos"			"r220"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
 		"wide_minbad"	"50"
