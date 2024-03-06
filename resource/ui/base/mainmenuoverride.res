@@ -339,7 +339,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_bg_dark"
 		"fgcolor_override"	"wh_bg_dark"
-		"labelText"			"0.1.0"
+		"labelText"			"0.1.1"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}
