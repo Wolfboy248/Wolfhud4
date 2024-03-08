@@ -388,7 +388,7 @@
 		"fillcolor"		"wh_team_blue"
 		"alpha"			"150"
 	}
-	
+
 	"BluTeamBg"
 	{
 		"ControlName"		"ImagePanel"
@@ -401,7 +401,7 @@
 		"fillcolor"			"wh_black"
 		"alpha"				"150"
 	}
-	
+
 	"RedTeamBg"
 	{
 		"ControlName"		"ImagePanel"
@@ -601,9 +601,9 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"PlayerPanelPlayerName"
+				"font"			"REG_10"
 				"xpos"			"cs-0.5"
-				"ypos"			"0"
+				"ypos"			"2"
 				"zpos"			"5"
 				"wide"			"f0"
 				"tall"			"19"
@@ -613,6 +613,8 @@
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
+				"fgcolor"			"wh_white"
+				"fgcolor_override"			"wh_white"
 			}
 			"chargeamount"
 			{

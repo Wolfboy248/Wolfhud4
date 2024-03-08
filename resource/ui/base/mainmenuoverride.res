@@ -324,7 +324,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_white"
 		"fgcolor_override"	"wh_white"
-		"labelText"			"0.1.1"
+		"labelText"			"0.1.2"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}
@@ -339,7 +339,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_bg_dark"
 		"fgcolor_override"	"wh_bg_dark"
-		"labelText"			"0.1.1"
+		"labelText"			"0.1.2"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}

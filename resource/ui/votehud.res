@@ -42,7 +42,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
 		}
@@ -61,7 +61,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
 			"noshortcutsyntax" "1"
@@ -96,9 +96,9 @@
 			"textAlignment"		"north-west"
 			"dulltext"		"0"
 			"brighttext"		"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"wrap"			"1"
-			"fgcolor_override"	"128 128 128 255"
+			"fgcolor_override"	"178 178 178 255"
 		}
 		
 		"Issue"
@@ -115,7 +115,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"noshortcutsyntax" "1"
@@ -145,7 +145,7 @@
 			"ypos"			"50"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"128 128 128 255"
+			"fillcolor"		"255 255 255 255"
 			"zpos"			"0"
 		}
 		
@@ -166,7 +166,7 @@
 			"textAlignment"	"left"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -198,7 +198,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -217,7 +217,7 @@
 			"textAlignment"	"left"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -249,7 +249,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -268,7 +268,7 @@
 			"textAlignment"	"left"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -300,7 +300,7 @@
 			"textAlignment"	"left"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -332,7 +332,7 @@
 			"textAlignment"	"left"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"255 255 255 255"
 		}
 		
@@ -358,7 +358,7 @@
 			"ypos"			"100"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"128 128 128 255"
+			"fillcolor"		"255 255 255 255"
 			"zpos"			"0"
 		}
 		
@@ -376,7 +376,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"fgcolor_override"	"128 128 128 255"
 		}
 		
@@ -443,7 +443,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
 		}
@@ -462,7 +462,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
 		}		
@@ -511,7 +511,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardSmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"200 30 30 255"
 		}
@@ -530,7 +530,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"ScoreboardVerySmall"
+			"font"			"REG_10"
 			"wrap"			"1"
 			"fgcolor_override"	"255 255 255 255"
 		}		
@@ -555,13 +555,13 @@
 		"bgcolor_override"		"wh_bg_dark"
 		"PaintBackground"	"1"
 
-		"header_font"		"ItemFontNameLarge"
+		"header_font"		"REG_16"
 		"header_fgcolor"	"Orange"
 
 		"issue_width"		"180"		
-		"issue_font"		"ItemFontNameSmall"
-		"issue_fgcolor"		"TanLight"
-		"issue_fgcolor_disabled"	"TanDark"
+		"issue_font"		"REG_12"
+		"issue_fgcolor"		"wh_white"
+		"issue_fgcolor_disabled"	"wh_grey"
 		
 		"parameter_width"	"200"
 
@@ -569,7 +569,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"HudFontMediumBold"
+			"font"			"REG_22"
 			"labelText"		"#TF_Vote_Title"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -684,7 +684,7 @@
 			"brighttext"	"0"
 			"Command"		"CallVote"
 			"Default"		"0"
-			"font"			"HudFontSmallBold"
+			"font"			"REG_16"
 		}
 		"Button1"
 		{
@@ -705,7 +705,7 @@
 			"brighttext"	"0"
 			"Command"		"Close"
 			"Default"		"0"
-			"font"			"HudFontSmallBold"
+			"font"			"REG_16"
 		}
 	}
 }

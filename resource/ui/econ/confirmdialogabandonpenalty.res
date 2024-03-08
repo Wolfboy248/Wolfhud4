@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialogAbandonSafe.res"
+"Resource/UI/ConfirmDialogAbandonPenalty.res"
 {
 	"ConfirmDialog"
 	{
@@ -162,5 +162,5 @@
 		"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
-	}							
+	}			
 }

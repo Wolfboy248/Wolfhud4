@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialogAbandonSafe.res"
+"Resource/UI/ConfirmDialogAbandonNoPenalty.res"
 {
 	"ConfirmDialog"
 	{
@@ -19,7 +19,7 @@
 		"bgcolor_override"	"wh_bg_dark"
 		"border"			"NoBorder"
 	}
-		
+	
 	"TitleLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -162,5 +162,5 @@
 		"visible"		"1"
 		"actionSet"		"MenuControls"
 		"actionName"	"menu_select"
-	}							
+	}			
 }

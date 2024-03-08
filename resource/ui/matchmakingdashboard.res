@@ -287,15 +287,15 @@
 			{
 				"ControlName"	"Panel"
 				"fieldName"		"OuterShadow"
-				"xpos"			"0"
-				"ypos"			"0"
+				"xpos"			"9999"
+				"ypos"			"9999"
 				"zpos"			"-1"
 				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"OuterShadowBorderThin"
+				"border"		"NoBorder"
 			}
 
 			"BGPanel"
@@ -310,7 +310,9 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"border"		"NoBorder"
+				"bgcolor_override"		"wh_bg_dark"
+				"bgcolor"				"wh_bg_dark"
 			}
 
 			"QueueLogoButton"
@@ -371,8 +373,8 @@
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"HudFontSmallestBold"
-				"fgcolor_override"	"TanLight"
+				"font"			"REG_14"
+				"fgcolor_override"	"wh_white"
 				"textAlignment"	"west"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
@@ -382,15 +384,15 @@
 				{
 					"0"
 					{
-						"font"	"HudFontSmallestBold" // TF2 Build 11
+						"font"	"REG_14" // TF2 Build 11
 					}
 					"1"
 					{
-						"font"	"StorePromotionsTitle" // TF2 Build 10
+						"font"	"REG_14" // TF2 Build 10
 					}
 					"2"
 					{
-						"font"	"FontStorePrice" // TF2 Build 9
+						"font"	"REG_14" // TF2 Build 9
 					}
 				}
 			}
