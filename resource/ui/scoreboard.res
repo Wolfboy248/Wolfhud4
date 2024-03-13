@@ -1682,7 +1682,7 @@
 			"font"			"REG_16"
 			"labelText"		"%invulns%"
 			"textAlignment"		"west"
-			"xpos"			"222"
+			"xpos"			"216"
 			"ypos"			"12"
 			"zpos"			"3"
 			"wide"			"25"

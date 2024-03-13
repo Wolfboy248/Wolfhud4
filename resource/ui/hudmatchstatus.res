@@ -613,8 +613,8 @@
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
-				"fgcolor"			"wh_white"
-				"fgcolor_override"			"wh_white"
+				"fgcolor"			"247 142 29 255"
+				"fgcolor_override"			"247 142 29 255"
 			}
 			"chargeamount"
 			{

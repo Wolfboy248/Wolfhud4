@@ -10,7 +10,7 @@
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"REG_16"
 	}
-	
+
 	"AccountBG"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -23,14 +23,14 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_blue"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"teambg_2"		"../hud/misc_ammo_area_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
 		"teambg_3"		"../hud/misc_ammo_area_blue"
 		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
-	
-	"MetalIcon"	
+
+	"MetalIcon"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
@@ -45,16 +45,16 @@
 		"tall_lodef"	"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"	
+		"scaleImage"	"1"
 		"icon"			"ico_metal"
 		"iconColor"		"ProgressOffWhite"
 	}
-	
+
 	"AccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"0"
+		"xpos"			"1"
 		"ypos"			"0"
 		"ypos_lodef"	"121"
 		"zpos"			"2"
@@ -72,12 +72,12 @@
 		"font"			"REG_18"
 		"fgcolor"		"wh_white"
 	}
-	
+
 	"AccountValueBG"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValueBG"
-		"xpos"			"1"
+		"xpos"			"2"
 		"ypos"			"1"
 		"ypos_lodef"	"121"
 		"zpos"			"2"

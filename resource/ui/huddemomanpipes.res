@@ -54,7 +54,6 @@
 		"xpos_minbad"			"0"
 		"zpos"					"2"
 		"wide"					"40"
-		"wide_minbad"			"50"
 		"tall"					"3"
 		"autoResize"			"0"
 		"pinCorner"				"0"

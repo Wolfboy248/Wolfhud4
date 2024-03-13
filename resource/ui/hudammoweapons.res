@@ -115,7 +115,7 @@
 		"fieldName"		"AmmoNoClip"
 		"font"			"REG_50"
 		"fgcolor"		"wh_white"
-		"xpos"			"102"
+		"xpos"			"100"
 		"ypos"			"22"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"100"
@@ -141,7 +141,7 @@
 	"AmmoPanelBGLow"
 	{
 		"ControlName"		"ImagePanel"
-		"xpos"				"95"
+		"xpos"				"100"
 		"ypos"				"33"
 		"wide"				"102"
 		"tall"				"36"
@@ -156,7 +156,7 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"BOLD_50"
 		"fgcolor"		"wh_bg_dark"
-		"xpos"			"104"
+		"xpos"			"102"
 		"ypos"			"24"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"100"

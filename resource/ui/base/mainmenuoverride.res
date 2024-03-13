@@ -324,7 +324,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_white"
 		"fgcolor_override"	"wh_white"
-		"labelText"			"0.1.2"
+		"labelText"			"0.1.3"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}
@@ -339,7 +339,7 @@
 		"tall"				"40"
 		"fgcolor"			"wh_bg_dark"
 		"fgcolor_override"	"wh_bg_dark"
-		"labelText"			"0.1.2"
+		"labelText"			"0.1.3"
 		"textAlignment"		"east"
 		"font"				"REG_14"
 	}
@@ -862,8 +862,8 @@
 		"xpos"			"c90"
 		"ypos"			"72"
 		"zpos"			"-52"
-		"wide"			"320"
-		"tall"			"100"
+		"wide"			"325"
+		"tall"			"420"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
@@ -1901,10 +1901,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"c275"
+		"xpos"			"c215"
 		"ypos"			"160"
 		"zpos"			"5"
-		"wide"			"140"
+		"wide"			"200"
 		"tall"			"250"
 		"visible"		"1"
 
@@ -1959,7 +1959,7 @@
 			"proportionaltoparent"	"1"
 			"font"			"REG_12"
 
-			"columns_count"	"1"
+			"columns_count"	"2"
 			"inset_x"		"5"
 			"inset_y"		"5"
 			"row_gap"		"5"
@@ -1968,7 +1968,7 @@
 
 			"friendpanel_kv"
 			{
-				"wide"		"110"
+				"wide"		"82"
 				"tall"		"20"
 				"font"			"REG_12"
 			}

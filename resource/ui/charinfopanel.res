@@ -171,7 +171,7 @@
 		"border_default"			"wh_b_white_NESW"
 
 		"defaultBgColor_override"		"wh_bg_dark"
-		"armedBgColor_override"			"52 52 52 200"
+		"armedBgColor_override"			"150 150 150 200"
 	}	
 
 	"BackBtnHidden"

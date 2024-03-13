@@ -191,7 +191,7 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-27"	[$WIN32]
+		"xpos"					"c-28"	[$WIN32]
 		"ypos"					"c1"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
@@ -267,7 +267,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"250"
+		"ypos"		"320"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minbad"	 	"28"

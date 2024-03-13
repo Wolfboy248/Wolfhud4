@@ -22,6 +22,86 @@ Scheme
 			}
 		}
 
+		"icon24"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"24"
+				"antialias"	"1"
+			}
+		}
+
+		"icon28"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"28"
+				"antialias"	"1"
+			}
+		}
+
+		"icon32"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"32"
+				"antialias"	"1"
+			}
+		}
+
+		"icon36"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"36"
+				"antialias"	"1"
+			}
+		}
+
+		"icon40"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"40"
+				"antialias"	"1"
+			}
+		}
+
+		"icon44"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"44"
+				"antialias"	"1"
+			}
+		}
+
+		"icon48"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"48"
+				"antialias"	"1"
+			}
+		}
+
+		"icon52"
+		{
+			"1"
+			{
+				"name" "TF2 Icons"
+				"tall"	"52"
+				"antialias"	"1"
+			}
+		}
+
 		"char_20"
 		{
 			"1"
