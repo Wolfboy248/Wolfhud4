@@ -367,7 +367,7 @@ event DefaultAnimHudSpyDisguiseFadeOut
 
 //===========================================
 
-// Show the Overtime panel
+// Show the Overtime panelf
 event DefaultAnimOvertimeShow
 {
 	Animate OvertimeLabel				Alpha		"255"			Linear 0.0 0.1

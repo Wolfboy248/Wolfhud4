@@ -29,10 +29,10 @@
 		"paintbackground"	"1"
 
 		"defaultBgColor_override"	"0 0 0 0"
-		"armedBgColor_override"	"94 150 49 5"
+		"armedBgColor_override"	"0 0 0 150"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"FriendHighlightBorder"
+		"border_armed"		"NoBorder"
 	}
 
 	"NameLabel"

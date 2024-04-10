@@ -206,14 +206,14 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"65"
-			"ypos"			"5"
+			"xpos"			"67"
+			"ypos"			"8"
 			"wide"			"f0"
 			"zpos"			"100"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"font"			"REG_18"
+			"font"			"REG_20"
 			"fgcolor_override"	"wh_white"
 			"textAlignment"	"north-west"
 			"labelText"		"%name%"
@@ -229,8 +229,8 @@
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
-			"xpos"			"65"
-			"ypos"			"19"
+			"xpos"			"9999"
+			"ypos"			"9999"
 			"wide"			"195"
 			"zpos"			"100"
 			"tall"			"20"
@@ -260,7 +260,7 @@
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine2"
-			"xpos"			"65"
+			"xpos"			"67"
 			"ypos"			"29"
 			"wide"			"195"
 			"zpos"			"100"
@@ -344,7 +344,7 @@
 				{
 					"ControlName"	"Label"
 					"fieldName"		"NextLevelXPLabel"
-					"xpos"			"rs1"
+					"xpos"			"rs1.03"
 					"ypos"			"rs1"
 					"zpos"			"0"
 					"wide"			"100"
@@ -380,7 +380,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"0 0 0 0"
 						"bgcolor_override"	"0 0 0 0"
 					}
 
@@ -395,7 +395,8 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"wh_white"
+						"bgcolor_override"		"wh_bg_dark"
 					}
 
 					"Frame"
@@ -408,7 +409,7 @@
 						"tall"			"f0"
 						"zpos"			"5"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
+						"border"		"NoBorder"
 					}
 				}
 			}

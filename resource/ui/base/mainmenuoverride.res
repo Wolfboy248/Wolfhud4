@@ -890,8 +890,8 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"NoGCMessage"
-		"xpos"			"c-290"
-		"ypos"			"94"
+		"xpos"			"c180"
+		"ypos"			"111"
 		"zpos"			"-99"
 		"wide"			"260"
 		"tall"			"100"
@@ -902,9 +902,9 @@
 		"textinsetx"	"40"
 		"textinsety"	"10"
 
-		"font"			"HudFontSmallestBold"
-		"fgcolor_override"	"TanLight"
-		"labelText"		"#TF_MM_NoGC_Rank"
+		"font"			"REG_18"
+		"fgcolor_override"	"wh_white"
+		"labelText"		"NO CONNECTION, L BOZO"
 		"textAlignment"	"north-west"
 		"use_proportional_insets"	"1"
 	}
@@ -913,8 +913,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"NoGCImage"
-		"xpos"			"c-285"
-		"ypos"			"107"
+		"xpos"			"c170"
+		"ypos"			"109"
 		"zpos"			"-99"
 		"wide"			"30"
 		"tall"			"30"

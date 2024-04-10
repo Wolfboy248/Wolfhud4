@@ -1,3 +1,5 @@
+#base	"speedometer.res"
+
 "Resource/UI/HudPlayerClass.res"
 {
 	// player class data
@@ -5,8 +7,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"9999"
-		"ypos"			"9999"
+		"xpos"			"0"
+		"ypos"			"0"
 		"ypos_minbad"	"18"
 		"zpos"			"1"
 		"wide"			"f0"
@@ -18,10 +20,8 @@
 	{
 		"ControlName"	"CTFClassImage"
 		"fieldName"		"PlayerStatusClassImage"
-		"xpos"			"25"	[$WIN32]
-		"xpos_minbad"	"15"	[$WIN32]
-		"ypos"			"r88"	[$WIN32]
-		"ypos_minbad"	"r54"	[$WIN32]
+		"xpos"			"10"	[$WIN32]
+		"ypos"			"r75"	[$WIN32]
 		"xpos"			"57"	[$X360]
 		"ypos"			"r110"	[$X360]
 		"zpos"			"2"
@@ -38,12 +38,9 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyImage"
-		"xpos"			"3"		[$WIN32]
-		"xpos_minbad"	"-5"	[$WIN32]
-		"ypos"			"r67"	[$WIN32]
+		"xpos"			"9999"		[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"ypos_minbad"	"r44"	[$WIN32]
-		"xpos"			"35"	[$X360]
-		"ypos"			"r89"	[$X360]
 		"zpos"			"2"
 		"wide"			"55"
 		"wide_minbad"	"27"
@@ -51,39 +48,31 @@
 		"tall_minbad"	"27"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/class_spyred"
+		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"
-		"teambg_2"		"../hud/class_spyred"
+		"teambg_2"		"../hud/class_scoutred"
 		"teambg_3"		"../hud/class_spyblue"
 	}
 	"PlayerStatusSpyOutlineImage"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusSpyOutlineImage"
-		"xpos"			"3"		[$WIN32]
-		"xpos_minbad"	"-5"	[$WIN32]
-		"ypos"			"r67"	[$WIN32]
-		"ypos_minbad"	"r44"	[$WIN32]
-		"xpos"			"35"	[$X360]
-		"ypos"			"r89"	[$X360]
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"7"
-		"wide"			"55"
-		"wide_minbad"	"27"
-		"tall"			"55"
-		"tall_minbad"	"27"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/class_spy_outline"
+		"enabled"		"0"
+		"image"			"../blank"
 		"scaleImage"	"1"
 	}
 	"PlayerStatusClassImageBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"PlayerStatusClassImageBG"
-		"xpos"			"9"		[$WIN32]
-		"xpos_minbad"	"-10"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minbad"		"r40"	[$WIN32]
+		"xpos"			"9999"		[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"xpos"			"41"	[$X360]
 		"ypos"			"r82"	[$X360]
 		"zpos"			"1"
@@ -103,12 +92,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"classmodelpanelBG"
-		"xpos"			"-1"		[$WIN32]
-		"xpos_minbad"	"-15"		[$WIN32]
-		"ypos"			"r60"	[$WIN32]
-		"ypos_minbad"		"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
+		"xpos"			"9999"		[$WIN32]
+		"ypos"			"9999"	[$WIN32]
 		"zpos"			"1"
 		"wide"			"109"
 		"tall"			"50"
@@ -129,7 +114,7 @@
 
 		"xpos"			"0"	[$WIN32]
 		"xpos_minbad"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
 		"ypos_minbad"	"r88"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"100"
@@ -338,7 +323,6 @@
 			"ControlName"		"CExLabel"
 			"fieldName"			"CarryingLabel"
 			"font"				"ReplayBrowserSmallest"
-			"font_minbad"		"TFFontMedium"
 			"xpos"				"5"
 			"xpos_minbad"		"5"
 			"ypos"				"3"

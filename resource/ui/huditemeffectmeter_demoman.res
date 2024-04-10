@@ -81,7 +81,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"38"
-		"ypos"					"8"
+		"ypos"					"5"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"
@@ -93,7 +93,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"REG_26"
+		"font"					"BOLD_18"
 		"fgcolor_override"		"wh_white"
 	}
 	"ItemEffectMeterCountBG"
@@ -101,7 +101,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountBG"
 		"xpos"					"39"
-		"ypos"					"9"
+		"ypos"					"6"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"
@@ -113,7 +113,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"REG_26"
+		"font"					"BOLD_18"
 		"fgcolor_override"		"wh_bg_dark"
 	}
 }

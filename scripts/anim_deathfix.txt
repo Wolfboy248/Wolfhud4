@@ -5,8 +5,8 @@ event HudSnapShotReminderIn
 {
     RunEvent DefaultAnimHudSnapShotReminderIn 0.0
 
-    RunEvent HudHealthDyingPulseStop 0.0
-    RunEvent HudHealthBonusPulseStop 0.0
-    RunEvent HudLowAmmoPulseStop 0.0
-    RunEvent HudMedicChargedStop 0.0
+    RunEvent HudHealthDyingPulseStop 4.0
+    RunEvent HudHealthBonusPulseStop 4.0
+    RunEvent HudLowAmmoPulseStop 4.0
+    RunEvent HudMedicChargedStop 4.0
 }
